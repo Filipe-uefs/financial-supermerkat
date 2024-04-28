@@ -1,0 +1,6 @@
+# Ignore arquivos gerados pelo Python
+*.pyc
+__pycache__/
+
+# Ignore o diretório do ambiente virtual
+myenv/
